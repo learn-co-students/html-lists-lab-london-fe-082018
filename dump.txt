@@ -1,18 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <title>Lists Lab</title>
-</head>
-<body>
   <ul>
     <li>2 slices of bread</li>
-    <li>4 slices of cheese
+    <li>4 slices of cheese</li>
       <ul>
         <li>cheddar</li>
         <li>mozzarella</li>
         <li>pepper jack</li>
       </ul>
-    </li>
     <li>1 tbsp of butter</li>
   </ul>
   
@@ -23,7 +16,3 @@
     <li>Cover with second slice of bread</li>
     <li>Turn over and fry for 2 minutes</li>
   </ol>
-  
-
-</body>
-</html>
